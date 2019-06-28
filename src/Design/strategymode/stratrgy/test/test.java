@@ -5,7 +5,7 @@ import strategymode.stratrgy.factory.PayFactory;
 
 /**
  * @author chenyam
- * @title: test
+ * @title: Test
  * @projectName DesignMode
  * @description: 测试类
  * @date 2019/6/17 21:39
